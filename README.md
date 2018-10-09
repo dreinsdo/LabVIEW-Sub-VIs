@@ -1,6 +1,6 @@
 # LabVIEW-VIs
 PURPOSE <br />
-To organize useful LabVIEW (LV) VIs.
+To organize useful LabVIEW VIs.
 
 DESCRIPTION <br />
 This repository contains VIs used for various DAQ and real-time control tasks.
