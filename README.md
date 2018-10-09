@@ -1,2 +1,6 @@
-# LabVIEW-Sub-VIs
-A collection of useful LabVIEW sub VIs.
+# LabVIEW-VIs
+PURPOSE <br />
+To organize useful LabVIEW sub VIs.
+
+DESCRIPTION <br />
+This repository contains subVIs that 
