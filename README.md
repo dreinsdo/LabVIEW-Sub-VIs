@@ -10,7 +10,7 @@ DAQ
 
 SIGNAL AND PROFILE GENERATION
 - 'Sine signal generator.VI': produces a sine signal and optionally appends a deceleration profile for an input frequency, amplitude, duration, and sampling period.
-'Chirp signal generator.VI': produces a chirp signal and optionally appends a deceleration profile for an input start frequency, end frequency, amplitude, duration, and sampling period.
+- 'Chirp signal generator.VI': produces a chirp signal and optionally appends a deceleration profile for an input start frequency, end frequency, amplitude, duration, and sampling period.
 - 'PRBS signal generator.VI': produces a PRBS signal, development in progress.
 
 FILE I/O
